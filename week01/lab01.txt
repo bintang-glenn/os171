@@ -20,3 +20,4 @@ drwxr-xr-x  2 bintang.glenn StafCS 4096 Feb 13 13:09 week08
 drwxr-xr-x  2 bintang.glenn StafCS 4096 Feb 13 13:09 week09
 drwxr-xr-x  2 bintang.glenn StafCS 4096 Feb 13 13:10 week10
 /home/fasilkom/mahasiswa/b/bintang.glenn/os171/week01
+Today is 13 Feb 2017 at 14:07:14
