@@ -1,1 +1,3 @@
+#bintang-glenn
+
 Week 0 task is make a github and google account for later use in Operating System class.
