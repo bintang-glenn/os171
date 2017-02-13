@@ -1,0 +1,3 @@
+#bintang-glenn
+
+Learn more about using command line interface through some demo and practice.
