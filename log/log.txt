@@ -7,4 +7,10 @@ w01-170216-14-LR-About: Scripting, From: Lecturer
 w01-170216-14-LR-About: Scripting, From: Lecturer
 w02-170220-13-PS-Doing week02 lab assignment about encryption and digital signature
 w02-170220-13-PS-Doing week02 lab assignment about encryption and digital signature
-
+w03-170302-13-LR-About: Booting, From: Lecturer
+w03-170302-13-LR-About: Booting, From: Lecturer
+w03-170302-14-LR-About: Booting, From: Lecturer
+w03-170302-14-LR-About: Booting, From: Lecturer
+w03-170303-10-PS-Doing week03 lab assignment about boot and startup script
+w03-170303-11-PS-Doing week03 lab assignment about boot and startup script
+w03-170303-11-PS-Doing week03 lab assignment about boot and startup script
