@@ -14,3 +14,6 @@ w03-170302-14-LR-About: Booting, From: Lecturer
 w03-170303-10-PS-Doing week03 lab assignment about boot and startup script
 w03-170303-11-PS-Doing week03 lab assignment about boot and startup script
 w03-170303-11-PS-Doing week03 lab assignment about boot and startup script
+w04-170306-13-PS-Doing week04 lab assignment about global variable vs local variable and pointer
+w04-170306-13-PS-Doing week04 lab assignment about global variable vs local variable and pointer
+w04-170306-14-PS-Doing week04 lab assignment about global variable vs local variable and pointer
