@@ -17,3 +17,13 @@ w03-170303-11-PS-Doing week03 lab assignment about boot and startup script
 w04-170306-13-PS-Doing week04 lab assignment about global variable vs local variable and pointer
 w04-170306-13-PS-Doing week04 lab assignment about global variable vs local variable and pointer
 w04-170306-14-PS-Doing week04 lab assignment about global variable vs local variable and pointer
+w04-170307-13-LR-About: Pointer, From: Lecturer
+w04-170307-13-LR-About: Pointer, From: Lecturer
+w04-170307-14-LR-About: Pointer, From: Lecturer
+w04-170307-14-LR-About: Pointer, From: Lecturer
+w04-170309-13-LR-About: Pointer, From: Lecturer
+w04-170309-13-LR-About: Pointer, From: Lecturer
+w04-170309-14-LR-About: Pointer, From: Lecturer
+w04-170309-14-LR-About: Pointer, From: Lecturer
+W05-170313-13-PS-Doing week05 lab assignment about memory
+W05-170313-13-PS-Doing week05 lab assignment about memory
