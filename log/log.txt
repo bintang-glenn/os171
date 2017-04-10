@@ -25,5 +25,29 @@ w04-170309-13-LR-About: Pointer, From: Lecturer
 w04-170309-13-LR-About: Pointer, From: Lecturer
 w04-170309-14-LR-About: Pointer, From: Lecturer
 w04-170309-14-LR-About: Pointer, From: Lecturer
-W05-170313-13-PS-Doing week05 lab assignment about memory
-W05-170313-13-PS-Doing week05 lab assignment about memory
+w05-170313-13-PS-Doing week05 lab assignment about memory
+w05-170313-13-PS-Doing week05 lab assignment about memory
+w05-170321-13-LR-Review for Mid Semester From: Lecturer
+w05-170321-13-LR-Review for Mid Semester From: Lecturer
+w05-170323-13-LR-Review for Mid Semester From: Lecturer
+w05-170323-13-LR-Review for Mid Semester From: Lecturer
+w05-170331-13-LR-Review About: Intro From: Bahan Ajar Lama
+w05-170331-13-LR-Review About: Intro From: Bahan Ajar Lama
+w05-170331-14-LR-Review About: Intro From: Bahan Ajar Lama
+w05-170331-14-LR-Review About: Intro From: Bahan Ajar Lama
+w05-170331-15-LR-Review About: IPR & Scripting From: Bahan Ajar Lama
+w05-170331-15-LR-Review About: Scripting From: Bahan Ajar Lama
+w05-170401-14-LR-Review About: Protection & Security From: Bahan Ajar Lama
+w05-170401-14-LR-Review About: Protection & Security From: Bahan Ajar Lama
+w05-170401-15-LR-Review About: C Language From: Bahan Ajar Lama
+w05-170401-15-LR-Review About: BIOS & Boot From: Bahan Ajar Lama
+w05-170401-17-LR-Review About: Adressing & Pointer From: Bahan Ajar Lama
+w05-170401-17-LR-Review About: I/O Programming From: Bahan Ajar Lama
+w05-170401-18-LR-Review About: Memory From: Bahan Ajar Lama
+w05-170401-20-LR-Review About: Memory Programming From: Bahan Ajar Lama
+w06-170406-13-LR-About: Process & Threads From: Lecturer
+w06-170406-13-LR-About: Process & Threads From: Lecturer
+w06-170406-14-LR-About: Process & Threads From: Lecturer
+w06-170406-14-LR-About: Process & Threads From: Lecturer
+w06-170410-13-PS-Doing week06 lab assignment about Fork
+w06-170410-13-PS-Doing week06 lab assignment about Fork
