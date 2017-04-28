@@ -51,3 +51,26 @@ w06-170406-14-LR-About: Process & Threads From: Lecturer
 w06-170406-14-LR-About: Process & Threads From: Lecturer
 w06-170410-13-PS-Doing week06 lab assignment about Fork
 w06-170410-13-PS-Doing week06 lab assignment about Fork
+w06-170413-13-LR-About: Synchronization From: Lecturer
+w06-170413-13-LR-About: Synchronization From: Lecturer
+w06-170413-14-LR-About: Synchronization From: Lecturer
+w06-170413-14-LR-About: Synchronization From: Lecturer
+w07-170418-13-LR-About: Synchronization From: Lecturer
+w07-170418-13-LR-About: Synchronization From: Lecturer
+w07-170418-14-LR-About: Synchronization From: Lecturer
+w07-170418-14-LR-About: Synchronization From: Lecturer
+w07-170422-09-PS-Doing week07 lab assignment about Synchronization
+w07-170422-09-PS-Doing week07 lab assignment about Synchronization
+w07-170422-10-PS-Doing week07 lab assignment about Synchronization
+w07-170422-10-PS-Doing week07 lab assignment about Synchronization
+w07-170422-14-PS-Doing week07 lab assignment about Synchronization
+w08-170425-13-LR-About: Scheduling From: Lecturer
+w08-170425-13-LR-About: Scheduling From: Lecturer
+w08-170425-14-LR-About: Scheduling From: Lecturer
+w08-170425-14-LR-About: Scheduling From: Lecturer
+w08-170427-13-LR-About: File System From: Lecturer
+w08-170427-13-LR-About: File System From: Lecturer
+w08-170427-14-LR-About: File System From: Lecturer
+w08-170427-14-LR-About: File System From: Lecturer
+w08-170428-11-PS-Doing week08 lab assignment about Socket
+w08-170428-11-PS-Doing week08 lab assignment about Socket
